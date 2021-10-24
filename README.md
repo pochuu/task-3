@@ -1,5 +1,5 @@
- Unable to initialize device PRN
- #task1
+
+ # task1
  - Reversing int number and making sure it is 32bit long integer
  ```
  Input: -1243
